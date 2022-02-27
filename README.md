@@ -1,1 +1,3 @@
 # Metodologi-Data-Science-B
+REFIDO BAGAS PRAKOSA
+672019060
